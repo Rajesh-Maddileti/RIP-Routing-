@@ -40,7 +40,11 @@ Routers:
 - [R1 Configuration](R1-config.jpeg)
 - [R2 Configuration](R2-config.jpeg)
 - [R3 Configuration](R3-config.jpeg)
-- 
+- [Ping Verification](ping-verification.jpeg)
+
+## Lab References
+- [Packet Tracer File](RIP-Configuration.pkt)
+
 ## 📚 How to Run
 1. Download the `.pkt` file from this repo
 2. Open in Cisco Packet Tracer
